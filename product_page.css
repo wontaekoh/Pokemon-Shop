@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap");
+
+/* buttons outline */
+button,
+button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* search box outline */
+input[type="textbox"]:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* sticky header */
+#header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.product-image img {
+  border-radius: 10px;
+}
+
+body {
+  background-color: #273544;
+  color: whitesmoke;
+}
+
+/* .col-12,
+col-sm-6 {
+  flex: 0 0 100%;
+  max-width: 100%;
+} */
+
+.font-rubik border p-2 {
+  text-align: center;
+}
+
+/* typography classes */
+.font-baloo {
+  font-family: "Baloo Thambi 2", cursive;
+}
+
+.font-rale {
+  font-family: "Raleway", sans-serif;
+}
+
+.font-rubik {
+  font-family: "Rubik", sans-serif;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+/* Color Template */
+.color-header-bg {
+  background: #bad6f2;
+}
+
+.color-navbar-bg {
+  background: #1b6299;
+}
