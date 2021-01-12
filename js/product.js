@@ -8,12 +8,12 @@ let prodDesc = '';
 // Fetch product ID
 let productID = window.location.search.split('id=')[1];
 
-// if search box is not empty,
+// if product ID is not empty,
 if(productID !== '') {
   products.forEach(function(prod) {
     // Get matched product by its ID
     if(prod.id == productID) {
-      // // Rating of product
+      // Rating of product
       let integers = prod.rating.split('.')[0];
       let fractions = prod.rating.split('.')[1];
       let rest = 5-integers;
@@ -163,7 +163,7 @@ if(productID !== '') {
 
       <!-- Evolution stage -->
       <div class="size my-3">
-        <h class="font-baloo">Evolution Stage :</h>
+        <h6 class="font-baloo">Evolution Stage :</h6>
         <div class="d-flex justify-content-between w-25">
           <div class="font-rubik border p-2">
             <button class="btn p-0 font-size-14 text-white-50">Charmander</button>

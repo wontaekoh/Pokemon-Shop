@@ -10,7 +10,7 @@ let stars = '';
 // Fetch search text
 let searchText = window.location.search.split('text=')[1];
 
-// Put search text into search box (in search result page)
+// Put search text into search box (in search results page)
 document.querySelector('#search-box').value = searchText;
 
 // if search box is not empty, filter out matched products
