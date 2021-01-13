@@ -16,7 +16,7 @@ To see RESTful Java Web version of this project, please visit [Pokemon Shop Spri
 ### Project Demonstration: 
 Click the image below to watch the project demo
 <br><br>
-[<img src="demo-images/Project-poster.png" width="600"/>](https://youtu.be/MyX94dwdLTw "Click to Watch!")
+[<img src="demo-images/Project-poster.png" width="600"/>](https://youtu.be/3zBipxCBseA "Click to Watch!")
 
 
 <br>
