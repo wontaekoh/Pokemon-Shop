@@ -1,5 +1,5 @@
 # Pokemon-Shop
-This is an academic web project developed with two other classmates.
+This is an academic web project developed in team at Algonquin College.
 
 To see RESTful Java Web version of this project, please visit [Pokemon Shop Spring project](https://github.com/wontaekoh/Pokemon-Shop-Spring).
 
